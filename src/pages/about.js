@@ -60,7 +60,7 @@ const about = () => {
                 </p>
 
                 <p className="font-medium">
-                I thrive in collaborative environments and constantly seek to expand my knowledge by staying updated with the latest industry trends and technologies. My commitment to continuous learning drives me to stay up-to-date with the latest technologies and trends in the field.
+                I thrive in collaborative environments and constantly seek to expand my knowledge by staying updated with the latest industry trends and technologies.My commitment to continuous learning drives me to stay up-to-date with the latest technologies and trends in the field.
                 </p>
               </div>
 
