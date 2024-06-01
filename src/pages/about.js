@@ -53,7 +53,7 @@ const about = () => {
                   Biography
                 </h2>
                 <p className="font-medium">
-                I'm Mohit Parmar, a recent graduate and enthusiastic full stack developer with a strong focus on backend development. Throughout my academic journey, I've honed my skills by creating numerous projects that showcase my proficiency in various programming languages and frameworks.
+                I&apos;m Mohit Parmar, a recent graduate and enthusiastic full stack developer with a strong focus on backend development. Throughout my academic journey, I&apos;ve honed my skills by creating numerous projects that showcase my proficiency in various programming languages and frameworks.
                 </p>
                 <p className="font-medium my-4">
                 My passion lies in crafting robust and efficient backend systems, leveraging my deep understanding of server-side technologies and database management. 
