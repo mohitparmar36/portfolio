@@ -38,14 +38,14 @@ const Skills = () => {
             <Skill name={"NodeJs"} x="-19vw" y="2vw"/>
             <Skill name={"ExpressJs"} x="-5vw" y="-10vw"/>
             <Skill name={"MongoDb"} x="20vw" y="6vw"/>
-            <Skill name={"FramerMotion"} x="15vw" y="-5vw"/>
-            <Skill name={"Spring Boot"} x="0vw" y="10.5vw"/>
+            <Skill name={"FramerMotion"} x="-10vw" y="20vw"/>
+            <Skill name={".Net"} x="0vw" y="10.5vw"/>
             <Skill name={"Java"} x="20vw" y="-15vw"/>
             <Skill name={"MySQL"} x="32vw" y="-5vw"/>
             <Skill name={"Github"} x="-20vw" y="-15vw"/>
             <Skill name={"NextJs"} x="-35vw" y="-5vw"/>
             <Skill name={"JAVASCRIPT"} x="-32vw" y="7vw"/>
-            <Skill name={"HTML"} x="-25vw" y="15vw"/>
+            <Skill name={"HTML"} x="15vw" y="-5vw"/>
             <Skill name={"Tailwind CSS"} x="25vw" y="15vw"/>
             <Skill name={"React"} x="0vw" y="-21vw"/>
             

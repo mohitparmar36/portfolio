@@ -46,12 +46,15 @@ const contactus = () => {
             <span className="ml-2 sm:ml-4 text-lg sm:text-sm text-gray-700 dark:text-gray-200">+91 7990089200</span>
           </motion.div>
           <motion.div className="flex items-center justify-between bg-green-50 dark:bg-green-900 p-3 sm:p-4 rounded-md" variants={item}>
+        
             <FaEnvelope className="text-green-600 dark:text-green-400" />
-            <span className="ml-2 sm:ml-4 text-lg sm:text-sm text-gray-700 dark:text-gray-200">mohit.parmar2025@gmail.com</span>
+            <span className="ml-2 sm:ml-4 text-lg sm:text-sm  text-gray-700 dark:text-gray-200 overflow-hidden text-ellipsis whitespace-nowrap">mohit.parmar2025@gmail.com</span>
+           
+            
           </motion.div>
           <motion.div className="flex items-center justify-between bg-blue-100 dark:bg-blue-800 p-3 sm:p-4 rounded-md" variants={item}>
             <FaLinkedin className="text-blue-700 dark:text-blue-300" />
-            <a href="https://www.linkedin.com/in/parmarmohit/" className="ml-2 sm:ml-4 text-lg sm:text-sm text-blue-700 dark:text-blue-300">
+            <a href="https://www.linkedin.com/in/parmarmohit/" className="ml-2 sm:ml-4 text-lg sm:text-sm text-blue-700 dark:text-blue-300 truncate">
               linkedin.com/in/parmarmohit
             </a>
           </motion.div>
