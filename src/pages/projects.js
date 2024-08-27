@@ -106,7 +106,7 @@ const projects = () => {
                         img={secondProjectImage}
                         github={"https://github.com/mohitparmar36/Amazon-clone"}
                         summary={"A front-end E-commerce Website using React and Firebase. It offers a seamless shopping experience with features like secure user authentication, real-time inventory updates.You can easily track your orders and manage your cart in real-time."}
-                        link={"https://clone-64ed1.web.app/"}
+                        link={"https://github.com/mohitparmar36/Amazon-clone"}
                         type={"Project"}
 
                         
@@ -129,9 +129,9 @@ const projects = () => {
                         <FeaturedProject 
                         title={"Portfolio Website"}
                         img={fifthProjectImage}
-                        github={"https://github.com/mohitparmar36/my-portfolio-website"}
+                        github={"https://mohit-parmar-portfolio.vercel.app/"}
                         summary={"A dynamic Portfolio Website using Next.js, Framer Motion, and Tailwind CSS. It showcases your projects, skills, and experiences with smooth animations and a modern design. You can easily navigate through different sections, view detailed project descriptions, and appreciate the seamless user experience."}
-                        link={"https://github.com/mohitparmar36/my-portfolio-website"}
+                        link={"https://mohit-parmar-portfolio.vercel.app/"}
                         type={"Featured Project"}
 
                         
