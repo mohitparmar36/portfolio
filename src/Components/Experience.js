@@ -51,9 +51,29 @@ const Experience = () => {
     md:w-[2px] md:left-[30px] xs:left-[20px]'/>
 
         <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>
+        <Details  
+            
+            position={"Backend Developer"}
+            company={"1Rivet US, Inc."} 
+            companyLink={"https://www.1rivet.com/"}
+            time={"JAN 2025 - Present"}
+            address={"Valsad, Gujarat"}
+            work={"Developed a RESTful API for a web application using .NET framework, enabling seamless data retrieval and storage. Implemented JWT-based authentication and authorization for secure user access. Enhanced application performance by 40% through query optimization and database indexing."}
+            
+          />
+        <Details  
+            
+            position={"Frontend Developer Intern"}
+            company={"MargosaTree Technologies LLP"} 
+            companyLink={"https://www.margosatree.com/"}
+            time={"MAY 2024 - DEC 2024"}
+            address={"Mumbai, Maharashtra"}
+            work={"Developed an Order Management System (Admin Panel) using React.js, Redux, TypeScript, and Tailwind CSS, featuring role-based access control, dynamic sidebar navigation, order and transaction management, and advanced reporting. Implemented responsive UI, Redux state management, and seamless navigation with React Router to enhance user experience and efficiency."}
+            
+          />
             <Details  
             
-            position={"Backend Intern"}
+            position={"Backend Developer Intern"}
             company={"LetsGrowMore"} 
             companyLink={"https://letsgrowmore.in/"}
             time={"Summer 2023"}
@@ -63,7 +83,7 @@ const Experience = () => {
             />
             <Details  
             
-            position={"Full Stack Intern"}
+            position={"Full Stack Developer Intern"}
             company={"DevTown"} 
             companyLink={"https://www.devtown.in/"}
             time={"Summer 2022"}
